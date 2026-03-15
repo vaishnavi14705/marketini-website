@@ -1,5 +1,9 @@
 # Marketini - Premium Digital Marketing Website
+# Marketini - Premium Digital Marketing Website
 
+🌐 Live Demo: https://vaishnavi14705.github.io/marketini-website/
+
+💻 GitHub Repo: https://github.com/vaishnavi14705/marketini-website
 A stunning, high-performance website for Marketini digital marketing agency built with Next.js 14, React, and premium animations.
 
 ## Features
